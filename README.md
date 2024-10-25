@@ -15,7 +15,7 @@ The Fleet management dashboard is designed to help users manage a fleet of vehic
 ## Running the Project Locally
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/fleet-management-dashboard.git
+   git clone https://github.com/Prajwalkulkarni4622/fleet-management-dashboard.git
    cd fleet-amanagement-dashboard.
 2. Install dependencies
    npm install
